@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteConstrint", "RouteConstrint\RouteConstrint.csproj", "{1331FF32-6980-4D04-9543-612A9D0469BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1331FF32-6980-4D04-9543-612A9D0469BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1331FF32-6980-4D04-9543-612A9D0469BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1331FF32-6980-4D04-9543-612A9D0469BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1331FF32-6980-4D04-9543-612A9D0469BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3C60203-8DFA-4443-81CD-95BFEC330F1D}
+	EndGlobalSection
+EndGlobal
